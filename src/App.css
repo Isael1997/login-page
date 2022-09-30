@@ -1,7 +1,21 @@
-/*body{
-  background-color: black;
+.form-group {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-h1{
-  color: blue;
-}*/
+.form-group label{
+  padding: auto;
+}
+.form-group input {
+  width: 50%;
+  height: 30px;
+  margin: 0.3rem;
+  display: inline-block;
+
+}
+
+
 
