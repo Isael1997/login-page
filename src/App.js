@@ -1,9 +1,10 @@
 import React from "react";
 import "./App.css";
-
+import Login from "./Login.js";
 
 export default function App() {
   return (
+<<<<<<< HEAD
     <div>
       <h1 className="text-center">Login</h1>
       <div className="form-group text-center">
@@ -22,5 +23,8 @@ export default function App() {
         
       </div>
     </div>
+=======
+    <Login/>
+>>>>>>> 98c8bb3 (El login tiene un buen disenio, falta el registro)
   );
 }
