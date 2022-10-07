@@ -9,24 +9,10 @@ body {
   background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
   }
 
-.form-group {
-  width: 100%;
-  max-width: 600px;
-  margin: 0 auto;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.form-group label{
-  padding: auto;
-}
-.form-group input {
-  width: 50%;
-  height: 30px;
-  margin: 0.3rem;
-  display: inline-block;
+  .card .bg-dark .text-white{
+    border-radius: 3rem;
+  } 
 
-}
 
 
 
