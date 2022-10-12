@@ -1,9 +1,9 @@
 
 import React from "react"
-import "./Login.css"
+import "../styles/SignIn.css"
 
 
-export default function Login() {
+export default function SignIn() {
 	return (
 		<div className="login-box">
 			<h2>Login</h2>
